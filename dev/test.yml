@@ -1,4 +1,4 @@
-
+#测试配置
 spring:
   application:
     # 应用名称
